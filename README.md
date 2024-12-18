@@ -1,0 +1,2 @@
+This Website displays some of my favorite recipes in a quick and easy way for users to follow, ensuring everyone enjoy the wonders and variety of pie.
+In order to create this website it willl require researching skills, knowledge of git, html, structure, layout and typography.sta
